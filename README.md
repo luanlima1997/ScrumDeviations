@@ -75,6 +75,7 @@ Other</br>
 11 - How are the Backlog Items shared with the team? ˚¡</br>
 There is a tool in the project where everyone on the team has access (Ex.: Jira, Trello, etc.)</br>
 There is a document shared with all the team. (Ex.: An excel file, or a doc.)</br>
+The team members have no access to the Backlog Items </br>
 Other</br>
 
 12 - Are backlog items prioritized and ordered in the project? ˚¡</br>
@@ -101,11 +102,19 @@ No</br>
 Yes</br>
 No</br>
 
-17 - Does your scrum team know the team's capacity? ˚¡</br>
+17 - If your previous answer was Yes: Does your scrum team takes into consideration the team's velocity to choose the work amount of the sprint? ¡</br>
 Yes</br>
 No</br>
 
-18 - Who decides the work / tasks that will be done throughout the sprint? ˚§</br>
+18 - Does your scrum team know the team's capacity? ˚¡</br>
+Yes</br>
+No</br>
+
+19 - If your previous answer was Yes: Does your scrum team takes into consideration the team's capacity to choose the work amount of the sprint? ¡</br>
+Yes</br>
+No</br>
+
+20 - Who decides the work / tasks that will be done throughout the sprint? ˚§</br>
 Product Owner</br>
 Customer</br>
 Scrum Master</br>
@@ -114,25 +123,31 @@ Project Manager</br>
 All Scrum Team together</br>
 Other</br>
 
-19 - Is it usually clear at the sprint goal for all team members? ˚¡</br>
+21 - Is it usually clear at the sprint goal for all team members? ˚¡</br>
 Yes</br>
 No</br>
 
-20 - Is your scrum team free to negotiate the scope of work that will be done in the sprint? ˚¡</br>
-Yes</br>
-No</br>
+22 - Is your scrum team free to negotiate the scope of work that will be done in the sprint? ˚¡</br>
+1 - Never</br>
+2 - Rarely</br>
+3 - Sometimes</br>
+4 - Often</br>
+5 - Always</br>
 
-21 - How does your team divide the tasks that are in the scope of the sprint? ˚¡</br>
+23 - How does your team divide the tasks that are in the scope of the sprint? ˚¡</br>
 The developers decide how the work will be divided during or at the start of the sprint</br>
 The product owner decides how the work will be divided during or at the start of the sprint</br>
 The scrum master decides how the work will be divided during or at the start of the sprint</br>
 Other</br>
 
-22 - Is the scope of work defined at the beginning of the sprint changes during the iteration? ˚¡</br>
-Yes</br>
-No</br>
+24 - Is the scope of work defined at the beginning of the sprint changes during the iteration? ˚¡</br>
+1 - Never</br>
+2 - Rarely</br>
+3 - Sometimes</br>
+4 - Often</br>
+5 - Always</br>
 
-23 - If your previous answer was Yes: who makes these changes to the scope of the sprint's work? §</br>
+25 - If your previous answer is different from 1 - Never: who makes these changes to the scope of the sprint's work? §</br>
 Product Owner</br>
 Scrum Master</br>
 Customer</br>
@@ -141,16 +156,20 @@ Project Manager</br>
 Developers</br>
 Other</br>
 
-24 - Is there a definition of done in your scrum team? ˚¡</br>
+26 - Is there a definition of done in your scrum team? ˚¡</br>
 Yes</br>
 No</br>
 
-25 - Usually, your sprints are successfully completed? (For example, the last three sprints all the sprint backlog was delivered). ˚¡</br>
+27 - If your previous answer was Yes: Is the definition of done followed for all backlog items in your team? ¡</br>
+Yes</br>
+No</br>
+
+28 - Usually, your sprints are successfully completed? (For example, the last three sprints all the sprint backlog was delivered). ˚¡</br>
 Yes</br>
 No</br>
 Not sure, I have no visibility of it.</br>
 
-26 - Who decides which items were accepted at the end of the sprint? ˚§</br>
+29 - Who decides which items were accepted at the end of the sprint? ˚§</br>
 Product Owner</br>
 Customer</br>
 Scrum Master</br>
@@ -158,13 +177,14 @@ Developers</br>
 People Manager</br>
 Designer</br>
 Quality Assurance/ Quality Manager/ Tester</br>
+Software Architect</br>
 Other</br>
 
-27 - The structure of your team changes frequently (every 2 sprints a member changes, for example) ˚¡</br>
+30 - The structure of your team changes frequently (every 3 sprints a member changes, for example) ˚¡</br>
 Yes</br>
 No</br>
 
-28 - In general, how is your experience with the Scrum framework? Do you feel scrum adds value to your project? Can you give some examples? π</br>
+31 - In general, how is your experience with the Scrum framework? Do you feel scrum adds value to your project? Can you give some examples? π</br>
 
 
 ***
