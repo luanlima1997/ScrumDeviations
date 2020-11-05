@@ -114,7 +114,7 @@ No</br>
 Yes</br>
 No</br>
 
-20 - Who decides the work / tasks that will be done throughout the sprint? ˚§</br>
+20 - Who decides the work/tasks that will be discussed in the sprint planning meeting? ˚§</br>
 Product Owner</br>
 Customer</br>
 Scrum Master</br>
